@@ -12,6 +12,7 @@
 #---Autostart---#
 feh --bg-scale /home/riz/Pictures/papes/reunion.png
 ~/.config/polybar/launch.sh
+~/.config/bspwm/script.sh
 sxhkd &
 
 #---BSPWM---#
